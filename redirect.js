@@ -1,1 +1,0 @@
-function redirectEn(){window.location.replace('/en/index.html')}function redirectRu(){window.location.replace('/ru/index.html')}storageChecker('lang',redirectEn,redirectRu,preferesEn).restore();
