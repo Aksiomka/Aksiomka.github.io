@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Sitemap: https://gladysheva-art.ru/ru/sitemap.xml
 Sitemap: https://gladysheva-art.ru/en/sitemap.xml
+Sitemap: https://gladysheva-art.ru/sitemap.xml
