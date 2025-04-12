@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /*/news.html
+Disallow: /404.html
+Disallow: /*/404.html
 Sitemap: https://gladysheva-art.ru/ru/sitemap.xml
 Sitemap: https://gladysheva-art.ru/en/sitemap.xml
 Sitemap: https://gladysheva-art.ru/sitemap.xml

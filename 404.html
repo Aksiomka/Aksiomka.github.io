@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" href="/favicon.ico" /><!-- 32×32 -->
+        <link rel="apple-touch-icon" href="/img/favicons/apple.png" /><!-- 180×180 -->
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <script src="/main.js"></script>
+        <title>Page not found</title>
+    </head>
+    <body>
+        <noscript>
+            <style>
+                .p404 {
+                    margin: 6rem auto;
+                    text-align: center;
+                }
+            </style>
+            <div class="p404">
+                <h1>404</h1>
+                <p><strong>Page not found</strong></p>
+            </div>
+        </noscript>
+        <script>
+            pagePath = encodeURIComponent(window.location.pathname + window.location.search)
+
+            function redirectEn() {
+                redirect("/en/404.html?page=" + pagePath)
+            }
+
+            function redirectRu() {
+                redirect("/ru/404.html?page=" + pagePath)
+            }
+
+            storageChecker("lang", redirectEn, redirectRu, preferesEn).restore()
+        </script>
+    </body>
+</html>
