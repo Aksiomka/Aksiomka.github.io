@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://gladysheva-art.ru/en/about.html</loc>
-		<lastmod>2025-12-27T11:08:29+03:00</lastmod>
+		<lastmod>2026-02-04T19:04:08+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/en/contacts.html</loc>
@@ -10,7 +10,7 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/en/index.html</loc>
-		<lastmod>2025-12-27T11:00:00+03:00</lastmod>
+		<lastmod>2026-02-04T19:04:08+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/en/robot/news1.html</loc>
@@ -147,6 +147,18 @@
 	<url>
 		<loc>https://gladysheva-art.ru/en/robot/news4.html</loc>
 		<lastmod>2025-07-04T21:59:39+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/en/robot/news40.html</loc>
+		<lastmod>2026-02-04T19:04:08+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/en/robot/news41.html</loc>
+		<lastmod>2026-02-04T19:04:08+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/en/robot/news42.html</loc>
+		<lastmod>2026-02-04T19:04:08+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/en/robot/news5.html</loc>
