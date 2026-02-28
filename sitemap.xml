@@ -6,7 +6,7 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Chamomile.webp</loc>
-		<lastmod>2026-02-26T14:58:21+03:00</lastmod>
+		<lastmod>2026-02-26T14:58:27+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Chubushnik.webp</loc>
@@ -54,7 +54,11 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Petals.webp</loc>
-		<lastmod>2026-02-26T14:58:21+03:00</lastmod>
+		<lastmod>2026-02-26T14:58:27+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/Scars.webp</loc>
+		<lastmod>2026-02-28T13:36:33+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Shadow.webp</loc>
@@ -118,11 +122,11 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Chamomile.webp</loc>
-		<lastmod>2026-02-26T14:58:21+03:00</lastmod>
+		<lastmod>2026-02-26T14:58:27+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Chamomile_middle.webp</loc>
-		<lastmod>2026-02-26T14:58:21+03:00</lastmod>
+		<lastmod>2026-02-26T14:58:27+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Chubushnik.webp</loc>
@@ -214,11 +218,19 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Petals.webp</loc>
-		<lastmod>2026-02-26T14:58:21+03:00</lastmod>
+		<lastmod>2026-02-26T14:58:27+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Petals_middle.webp</loc>
-		<lastmod>2026-02-26T14:58:21+03:00</lastmod>
+		<lastmod>2026-02-26T14:58:27+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/preview/Scars.webp</loc>
+		<lastmod>2026-02-28T13:36:33+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/preview/Scars_middle.webp</loc>
+		<lastmod>2026-02-28T13:36:33+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Shadow.webp</loc>
@@ -542,7 +554,7 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/LICENSE.txt</loc>
-		<lastmod>2025-03-16T16:58:20+03:00</lastmod>
+		<lastmod>2026-02-28T13:36:33+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/README.md</loc>
