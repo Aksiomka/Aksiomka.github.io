@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://gladysheva-art.ru/img/art/Ball.webp</loc>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
+	</url>
+	<url>
 		<loc>https://gladysheva-art.ru/img/art/Beautiful%20lily.webp</loc>
 		<lastmod>2025-04-01T07:24:15+03:00</lastmod>
 	</url>
@@ -27,6 +31,10 @@
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Gentle%20orchid.webp</loc>
 		<lastmod>2025-04-01T07:24:15+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/Hallucinations.webp</loc>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Light%20from%20inside.webp</loc>
@@ -110,7 +118,15 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/Wings.webp</loc>
-		<lastmod>2025-08-15T23:07:44+03:00</lastmod>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/preview/Ball.webp</loc>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/preview/Ball_middle.webp</loc>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Beautiful%20lily.webp</loc>
@@ -167,6 +183,14 @@
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Gentle%20orchid_middle.webp</loc>
 		<lastmod>2025-05-03T13:47:29+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/preview/Hallucinations.webp</loc>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gladysheva-art.ru/img/art/preview/Hallucinations_middle.webp</loc>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Light%20from%20inside.webp</loc>
@@ -330,11 +354,11 @@
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Wings.webp</loc>
-		<lastmod>2025-08-15T23:07:44+03:00</lastmod>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/art/preview/Wings_middle.webp</loc>
-		<lastmod>2025-08-15T23:07:44+03:00</lastmod>
+		<lastmod>2026-03-11T14:00:58+03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gladysheva-art.ru/img/contacts.webp</loc>
